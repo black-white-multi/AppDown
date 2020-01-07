@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.blackwhite.rich</string>
+				<string>com.wantong.red</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Rich</string>
+				<string>Red</string>
 			</dict>
 		</dict>
 	</array>
